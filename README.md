@@ -15,7 +15,7 @@ The latest iOS device, iPhone X's adaptation tips
 
 Solution:
 
-You should add a LaunchImage in the Images.xcassets for iPhone X. The new LaunchImage's size is 1125px * 2436px.
+You should add a LaunchImage in the Images.xcassets for iPhone X. The new LaunchImage's size is 1125px * 2436px, and pel density is 458ppi.
 
 The Images.xcassets created by old version Xcode doesn't include the iPhone X version Image Set, you should create a new Image Set to replace the old one.
 
