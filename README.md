@@ -1,6 +1,8 @@
 # iPhoneXAdaptationTips
 The latest iOS device, iPhone X's adaptation tips
 
+[中文版](https://github.com/taisk/iPhoneXAdaptionTips/CHINESE.md)
+
 **Now, the iPhone X Simulator has integrated into the Xcode 9 GM. You can download Xcode 9 GM at https://developer.apple.com**
 
 ## Adaptation Guides
