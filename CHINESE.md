@@ -1,7 +1,7 @@
 # iPhone X 适配指南
 最新的iOS设备，iPhone X的适配指南。
 
-[English](https://github.com/talisk/iPhoneXAdaptationTips/README.md)
+[English](https://github.com/talisk/iPhoneXAdaptationTips/blob/master/README.md)
 
 **现在，Xcode 9 GM版本已经集成了iPhone X的模拟器，你可以到https://developer.apple.com去下载Xcode 9 GM**
 
