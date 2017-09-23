@@ -3,7 +3,7 @@
 
 [English](https://github.com/talisk/iPhoneXAdaptationTips/blob/master/README.md)
 
-**现在，Xcode 9 GM版本已经集成了iPhone X的模拟器，你可以到https://developer.apple.com去下载Xcode 9 GM**
+**现在，Xcode 9 GM版本已经集成了iPhone X的模拟器，你可以到[https://developer.apple.com]去下载Xcode 9 GM**
 
 ## 适配指引
 

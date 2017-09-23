@@ -21,6 +21,12 @@ The Images.xcassets created by old version Xcode doesn't include the iPhone X ve
 
 Before adding Launch Image, the UIViewController instance's view size is 375pt * 667pt.
 
+## Bad case
+
+### UI Elements reach the unsafe area of screen
+
+
+
 ## Contributions
 
 Welcome contribute to the repository. Raise issues if you have any questions.
